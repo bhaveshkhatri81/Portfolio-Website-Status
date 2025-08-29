@@ -4,16 +4,16 @@
     "url": "http://bhaveshkhatri.tech",
     "icon": "https://icons.duckduckgo.com/ip3/bhaveshkhatri.tech.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "94.05%",
-    "uptimeMonth": "92.81%",
+    "uptimeDay": "98.28%",
+    "uptimeWeek": "94.04%",
+    "uptimeMonth": "92.85%",
     "uptimeYear": "99.36%",
     "time": 1863,
     "timeDay": 4362,
-    "timeWeek": 3214,
-    "timeMonth": 3734,
+    "timeWeek": 3204,
+    "timeMonth": 3720,
     "timeYear": 1863,
     "dailyMinutesDown": {
       "2025-08-29": 25,
@@ -39,8 +39,7 @@
       "2025-08-09": 279,
       "2025-08-08": 241,
       "2025-08-07": 208,
-      "2025-08-06": 177,
-      "2025-08-05": 15
+      "2025-08-06": 177
     }
   },
   {
