@@ -6,7 +6,7 @@ repo: Portfolio-Website-Status # The name of this repository
 
 sites:
   - name: Portfolio Website
-    url: http://bhaveshkhatri.tech
+    url: http://bhaveshkhatri.me
   - name: Google
     url: https://google.com
   # - name: Wikipedia
